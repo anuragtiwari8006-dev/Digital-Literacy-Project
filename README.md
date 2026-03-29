@@ -52,11 +52,13 @@ Task 2: Student Digital Portfolio
 
 Profiles created/updated on:
 
-GitHub → 
+GitHub → anuragtiwari8006-devanuragtiwari8006-dev
 
-LinkedIn → 
 
-Kaggle/Other → 
+LinkedIn → www.linkedin.com/in/
+
+
+Kaggle/Other → https://www.kaggle.com/
 
 Purpose:
 Build professional online identity
